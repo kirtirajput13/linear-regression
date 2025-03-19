@@ -82,6 +82,4 @@ This project provides a comprehensive example of how to build and evaluate a lin
 ## License
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as needed.
 
----
-
-This README file provides a clear and detailed explanation of the project, making it easy for anyone to understand and replicate the work.
+link for google colab file: https://colab.research.google.com/drive/1ceDRnHKM0ouJF2o7u_Bdfyz1ELsl3TCy?usp=sharing
